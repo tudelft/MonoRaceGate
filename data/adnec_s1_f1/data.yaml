@@ -1,0 +1,6 @@
+name: adnec_s1_f1
+camera_calibration: Undistorted
+gate_border_size: 0.19000000000000009
+gate_type: A2RLxDCL
+location: ADNEC
+problems: []

@@ -1,0 +1,6 @@
+name: red_s1_f1
+camera_calibration: Undistorted
+gate_border_size: 0.1950000000000001
+gate_type: A2RLxDCL
+location: RED_BUILDING
+problems: []
